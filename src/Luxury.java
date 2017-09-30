@@ -1,4 +1,4 @@
 
-public class Luxury {
+public class Luxury extends Room {
 
 }

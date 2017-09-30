@@ -1,4 +1,4 @@
 
-public class SuperDelux {
+public class SuperDelux extends Room {
 
 }
